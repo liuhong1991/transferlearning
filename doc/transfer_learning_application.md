@@ -2,6 +2,189 @@
 
 迁移学习的应用
 
+- 20190123 arXiv [Transfer Learning and Meta Classification Based Deep Churn Prediction System for Telecom Industry](https://arxiv.org/abs/1901.06091)
+    - Transfer learning in telcom industry
+    - 迁移学习用于电信行业
+
+- 20190123 arXiv [Cold-start Playlist Recommendation with Multitask Learning](https://arxiv.org/abs/1901.06125)
+  	- Cold-start playlist recommendation with multitask learning
+  	- 用多任务学习进行冷启动状态下的播放列表推荐
+
+- 20190123 arXiv [Adapting Convolutional Neural Networks for Geographical Domain Shift](https://arxiv.org/abs/1901.06345)
+  	- Convolutional neural network for geographical domain shift
+  	- 将卷积网络用于地理学上的domain shift问题
+
+- 20190117 NeurIPS-18 workshop [Transfer Learning for Prosthetics Using Imitation Learning](https://arxiv.org/abs/1901.04772)
+    - Using transfer learning for prosthetics
+    - 用迁移学习进行义肢的模仿学习
+
+- 20190115 IJAERS [Weightless Neural Network with Transfer Learning to Detect Distress in Asphalt](https://arxiv.org/abs/1901.03660)
+    - Transfer learning to detect distress in asphalt
+    - 用迁移学习检测路面情况
+
+- 20190115 arXiv [Disease Knowledge Transfer across Neurodegenerative Diseases](https://arxiv.org/abs/1901.03517)
+    - Transfer learning for neurodegenerative disease
+    - 迁移学习用于神经退行性疾病
+
+- 20190111 ICMLA-18 [Supervised Transfer Learning for Product Information Question Answering](https://arxiv.org/abs/1901.02539)
+    - Transfer learning for product information question answering
+    - 利用迁移学习进行产品信息的对话
+
+- 20190102 arXiv [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941)
+    - Monocular depth estimation using transfer learning
+    - 用迁移学习进行单眼深度估计
+
+- 20181230 arXiv [The CORAL+ Algorithm for Unsupervised Domain Adaptation of PLDA](https://arxiv.org/abs/1812.10260)
+    - Use CORAL for speaker recognition
+    - 用CORAL改进版进行speaker识别
+
+- 20181230 arXiv [Domain-Aware Generalized Zero-Shot Learning](https://arxiv.org/abs/1812.09903)
+    - Domain-aware zero-shot learning
+
+- 20181225 arXiv [A Multi-task Neural Approach for Emotion Attribution, Classification and Summarization](https://arxiv.org/abs/1812.09041)
+    - A multi-task approach for emotion attribution, classification, and summarization
+    - 一个多任务方法同时用于情绪归属、分类和总结
+
+- 20181225 arXiv [A General Approach to Domain Adaptation with Applications in Astronomy](https://arxiv.org/abs/1812.08839)
+    - Adopting active learning to transfer model
+    - 用主动学习来进行模型迁移并应用到天文学上
+
+- 20181225 arXiv [An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction](https://arxiv.org/abs/1812.09073)
+    - Using transfer learning for Pharmacokinetic Parameter Prediction
+    - 用迁移学习进行药代动力学参数估计
+
+- 20181221 arXiv [Deep Transfer Learning for Static Malware Classification](https://arxiv.org/abs/1812.07606)
+	- Deep Transfer Learning for Static Malware Classification
+	- 用深度迁移学习进行恶意软件分类
+
+- 20181221 arXiv [PnP-AdaNet: Plug-and-Play Adversarial Domain Adaptation Network with a Benchmark at Cross-modality Cardiac Segmentation](https://arxiv.org/abs/1812.07907)
+    - Adversarial transfer learning for medical images
+    - 对抗迁移学习用于医学图像分割
+
+- 20181220 arXiv [Domain Adaptation for Reinforcement Learning on the Atari](https://arxiv.org/abs/1812.07452)
+    - Reinforcement domain adaptation on Atari games
+    - 迁移强化学习用于Atari游戏
+
+- 20181220 arXiv [Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink](https://arxiv.org/abs/1812.07518)
+    - Channel knowledge transfer in CSI
+    - Wifi定位中的知识迁移
+
+- 20181219 NER-19 [Transfer Learning in Brain-Computer Interfaces with Adversarial Variational Autoencoders](https://arxiv.org/abs/1812.06857)
+    - Transfer learning in brain-computer interfaces
+    - 迁移学习在脑机交互中的应用
+
+- 20181219 ICCPS-19 [Simulation to scaled city: zero-shot policy transfer for traffic control via autonomous vehicles](https://arxiv.org/abs/1812.06120)
+    - Transfer learning in autonomous vehicles
+    - 迁移学习用于自动驾驶车辆的策略迁移
+
+- 20181218 arXiv [Transfer learning to model inertial confinement fusion experiments](https://arxiv.org/abs/1812.06055)
+    - Using transfer learning for inertial confinement fusion
+    - 用迁移学习进行惯性约束聚变
+
+- 20181214 arXiv [Bridging the Generalization Gap: Training Robust Models on Confounded Biological Data](https://arxiv.org/abs/1812.04778)
+    - Transfer learning for generalizing on biological data
+    - 用迁移学习增强生物数据的泛化能力
+
+- 20181214 BioCAS-19 [ECG Arrhythmia Classification Using Transfer Learning from 2-Dimensional Deep CNN Features](https://arxiv.org/abs/1812.04693)
+    - Deep transfer learning for EEG Arrhythmia Classification
+    - 深度迁移学习用于心率不齐分类
+
+- 20181214 LAK-19 [Transfer Learning using Representation Learning in Massive Online Open Courses](https://arxiv.org/abs/1812.05043)
+    - Transfer learning in MOOCs
+    - 迁移学习用于大规模在线网络课程
+
+- 20181214 DVPBA-19 [Considering Race a Problem of Transfer Learning](https://arxiv.org/abs/1812.04751)
+    - Consider race in transfer learning
+    - 在迁移学习问题中考虑种族问题(跨种族迁移)
+
+- 20181213 arXiv [Multichannel Semantic Segmentation with Unsupervised Domain Adaptation](https://arxiv.org/abs/1812.04351)
+    - Robot vision semantic segmentation with domain adaptation
+    - 用于机器视觉中语义分割的domain adaptation
+
+- 20181212 arXiv [3D Scene Parsing via Class-Wise Adaptation](https://arxiv.org/abs/1812.03622)
+    - Class-wise adaptation for 3D scene parsing
+    - 类别的适配用于3D场景分析
+
+- 20181212 arXiv [Secure Federated Transfer Learning](https://arxiv.org/abs/1812.03337)
+    - Federated transfer learning + Encryption
+    - 联邦迁移学习+加密(杨强团队)
+
+- 20181206 NeurIPS-18 workshop [Towards Continuous Domain adaptation for Healthcare](https://arxiv.org/abs/1812.01281)
+	- English: Continuous domain adaptation for healthcare
+	- 中文：连续的domain adaptation用于健康监护
+
+- 20181206 NeurIPS-18 workshop [A Hybrid Instance-based Transfer Learning Method](https://arxiv.org/abs/1812.01063)
+	- English: Instance-based transfer learning for healthcare
+	- 中文：基于样本的迁移学习用于健康监护
+
+- 20181205 arXiv [Learning from a tiny dataset of manual annotations: a teacher/student approach for surgical phase recognition](https://arxiv.org/abs/1812.00033)
+	- English: Transfer learning for surgical phase recognition
+	- 中文：迁移学习用于外科手术阶段识别
+
+- 20181204 arXiv [From Known to the Unknown: Transferring Knowledge to Answer Questions about Novel Visual and Semantic Concepts](https://arxiv.org/abs/1811.12772)
+	- English: Transfer learning for VQA
+	- 中文：用迁移学习进行VQA任务
+
+- 20181128 arXiv [Cross-domain Deep Feature Combination for Bird Species Classification with Audio-visual Data](https://arxiv.org/abs/1811.10199)
+	- English: Cross-domain deep feature combination for bird species classification
+	- 中文：跨领域的鸟分类
+
+- 20181128 NeurIPS-18 workshop [Multi-Task Generative Adversarial Network for Handling Imbalanced Clinical Data](https://arxiv.org/abs/1811.10419)
+	- English: Multi-task learning for imbalanced clinical data
+	- 中文：多任务学习用于不平衡的就诊数据
+
+- 20181128 WACV-19 [CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database](https://arxiv.org/abs/1811.09675)
+	- English: Transfer learning for underwater 3D scene reconstruction
+	- 中文：用迁移学习进行水下3D场景重建
+
+- 20181127 NeurIPS-18 workshop [Predicting Diabetes Disease Evolution Using Financial Records and Recurrent Neural Networks](https://arxiv.org/abs/1811.09350)
+    - English: Predicting diabetes using financial records
+    - 中文：用财务记录预测糖尿病
+
+- 20181123 NIPS-18 workshop [Population-aware Hierarchical Bayesian Domain Adaptation](https://arxiv.org/abs/1811.08579)
+	- English: Applying domain adaptation to health
+	- 中文：将domain adaptation应用于健康
+
+- 20181121 arXiv [Transferrable End-to-End Learning for Protein Interface Prediction](https://arxiv.org/abs/1807.01297)
+    - English: Transfer learning for protein interface prediction
+    - 中文：用迁移学习进行蛋白质接口预测
+
+- 20181121 NSFREU-18 [Transfer Learning with Deep CNNs for Gender Recognition and Age Estimation](https://arxiv.org/abs/1811.07344)
+    - English: Deep transfer learning for Gender Recognition and Age Estimation
+    - 中文：用深度迁移学习进行性别识别和年龄估计
+
+- 20181121 arXiv [Distribution Discrepancy Maximization for Image Privacy Preserving](https://arxiv.org/abs/1811.07335)
+    - English: Distribution Discrepancy Maximization for Image Privacy Preserving
+    - 中文：通过最大化分布差异来进行图片隐私保护
+
+- 20181120 arXiv [Spatial-temporal Multi-Task Learning for Within-field Cotton Yield Prediction](https://arxiv.org/abs/1811.06665)
+	- English: Multi-task learning for cotton yield prediction
+	- 中文：多任务学习用于棉花产量预测
+
+- 20181117 arXiv [Unsupervised domain adaptation for medical imaging segmentation with self-ensembling](https://arxiv.org/abs/1811.06042)
+	- English: Medical imaging using transfer learning
+	- 中文：使用迁移学习进行医学图像分割
+
+- 20181117 arXiv [Performance Estimation of Synthesis Flows cross Technologies using LSTMs and Transfer Learning](https://arxiv.org/abs/1811.06017)
+	- English: Performance Estimation of Synthesis Flows cross Technologies using LSTMs and Transfer Learning
+	- 中文：利用迁移学习进行合成flow评价
+
+- 20181117 AAAI-19 [GaitSet: Regarding Gait as a Set for Cross-View Gait Recognition](https://arxiv.org/abs/1811.06186)
+	- English: Cross-view gait recognition
+	- 中文：跨视图的步态识别
+
+- 20181115 AAAI-19 [Unsupervised Transfer Learning for Spoken Language Understanding in Intelligent Agents](https://arxiv.org/abs/1811.05232)
+	- English: Transfer learning for spoken language understanding
+	- 中文：无监督迁移学习用于语言理解
+
+- 20181114 arXiv [A Framework of Transfer Learning in Object Detection for Embedded Systems](https://arxiv.org/abs/1811.04863)
+	- English: Transfer learning in embedded system for object detection
+	- 中文：在嵌入式系统中进行针对目标检测的迁移学习
+
+- 20181107 ICONIP-18 [Transductive Learning with String Kernels for Cross-Domain Text Classification](https://arxiv.org/abs/1811.01734)
+	- English: String kernel for cross-domain text classification using transfer learning
+	- 中文：用string kernel进行迁移学习跨领域文本分类
+
 - 20181012 arXiv [Bird Species Classification using Transfer Learning with Multistage Training](https://arxiv.org/abs/1810.04250)
 	- English: Using transfer learning for bird species classification
 	- 中文：用迁移学习进行鸟类分类
